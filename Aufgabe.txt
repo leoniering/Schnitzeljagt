@@ -10,14 +10,14 @@ Aufgabe: Top, nun weisst du, wo du Essen holen kannst. Weisst du aber auch, wie 
 -> 
 Ort 2: Ausgang Richtung Sporthalle
 
-Perfekt, Zählen gehört anscheinend zu deinen Kompetenzen. Falls du einmal etwas verlierst, kannst du in der Fundgrube danach suchen gehen. Diese findest du in der Turnhalle, ganz vorne. 
+Perfekt, Zählen gehört anscheinend zu deinen Kompetenzen. Falls du einmal etwas verlierst, kannst du in einer der Fundgruben danach suchen gehen. Die Fundgrube der Sporthalle findest du in der Sporthalle. 
 ->
 Ort 3: Fundgrube Sporthalle auf Fundgrube BBZG hinweisen
 
-Richtig! Unser nächstes Ziel ist die Aula. Findest du sie? Wie viele Mikrowellen siehst du im Raum?
+Richtig! Nun möchten wir zur Aula gehen. Wo findest du  Unser nächstes Ziel ist die Aula. Findest du sie? Wie viele Mikrowellen siehst du im Raum?
 ->
 Ort 4: Aula
 
-
+Sehr gut, du bist also nun imstande, dich mit Essen zu versorgen, während dem du in der Berufsschule bist.
 Ort 5: Velokeller
 Ort 8: Parkplätze
