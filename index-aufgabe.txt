@@ -8,4 +8,3 @@ Ort 5: Velokeller
 Ort 6: Sporthalle
 Ort 7: Fundgrube Sporthalle auf Fundgrube BBZG hinweisen
 Ort 8: Parkplätze
-hallo
